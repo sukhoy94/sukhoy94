@@ -16,7 +16,7 @@ I'm backend developer. Also I like work on open source projects, write tuts and 
 PHP, Laravel, Postgres, MySQL, VueJS, Symfony
 
 
-### Popular posts:
+### Links to read and learn:
 
 - <a href="https://github.com/alexeymezenin/laravel-best-practices"><img align="center" width="20" height="20" src='https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15754208491553750212-512.png' /> 
 **Laravel best practices**</a>
