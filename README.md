@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**sukhoy94/sukhoy94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrii-sukhoi-0a3773125/)](https://www.linkedin.com/in/andrii-sukhoi-0a3773125/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrii.sukhoi@gmail.com)](mailto:andrii.sukhoi@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About me 
+
+
+I'm backend developer. Also I like work on open source projects, write tuts and learn new stuff in programming.
+
+### Technologies 
+
+
+PHP, Laravel, Postgres, MySQL, VueJS, Symfony
+
+
+### Popular posts:
+
+- <a href="https://github.com/alexeymezenin/laravel-best-practices"><img align="center" width="20" height="20" src='https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15754208491553750212-512.png' /> 
+**Laravel best practices**</a>
+
+
+- <a href="https://www.yegor256.com/2019/04/02/software-project-review-checklist.html"><img align="center" width="20" height="20" src='https://static.thenounproject.com/png/104097-200.png' /> 
+**Software Project Review Checklist**</a>
+
+- <a href="https://coderstape.com/"><img align="center" width="20" height="20" src='https://www.youtube.com/watch?v=cQWeTnOwlm4&feature=emb_title' /> 
+**Coderstape - best channel about laravel**</a>
+
+
