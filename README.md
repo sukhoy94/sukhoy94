@@ -25,7 +25,7 @@ PHP, Laravel, Postgres, MySQL, VueJS, Symfony
 - <a href="https://www.yegor256.com/2019/04/02/software-project-review-checklist.html"><img align="center" width="20" height="20" src='https://static.thenounproject.com/png/104097-200.png' /> 
 **Software Project Review Checklist**</a>
 
-- <a href="https://coderstape.com/"><img align="center" width="20" height="20" src='https://www.youtube.com/watch?v=cQWeTnOwlm4&feature=emb_title' /> 
+- <a href="https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg"><img align="center" width="20" height="20" src='https://cdn.iconscout.com/icon/free/png-256/youtube-86-226404.png' /> 
 **Coderstape - best channel about laravel**</a>
 
 
