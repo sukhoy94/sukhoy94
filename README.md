@@ -16,11 +16,11 @@ I'm backend developer. Also I like work on open source projects, write tuts and 
 PHP, Laravel, Postgres, MySQL, VueJS, Symfony
 
 
-### What I'm currently learning: 
+### What I'm currently learning 
 
 CQRS, phpUnit, VueJS
 
-### What I'm going to learn in nearest future: 
+### What I'm going to learn in nearest future
 
 ReactPHP, VueX
 
