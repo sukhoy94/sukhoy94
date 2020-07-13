@@ -40,6 +40,9 @@ ReactPHP, VueX
 - <a href="https://www.youtube.com/watch?v=mJFbYHYxSDg&list=PLKIEFFgNQYpVmUAKUjT_BRYYOdMHwGt0v"><img align="center" width="20" height="20" src='https://camo.githubusercontent.com/37eb536e5de58271ca84b0935ee7ffa8250e1abc/68747470733a2f2f7261776769742e636f6d2f72656163747068702f6272616e64696e672f6d61737465722f72656163747068702d6c6f676f2e706e67' /> 
 **Reach PHP with Sergey Zhuk**</a>
 
+- <a href="https://habr.com/ru/post/510614/">
+**Laravel Digest**</a>
+
 
 
 
