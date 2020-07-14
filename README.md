@@ -37,6 +37,10 @@ ReactPHP, VueX
 - <a href="https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg"><img align="center" width="20" height="20" src='https://cdn.iconscout.com/icon/free/png-256/youtube-86-226404.png' /> 
 **Coderstape - best channel about Laravel**</a>
 
+- <a href="https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw"><img align="center" width="20" height="20" src='https://cdn.iconscout.com/icon/free/png-256/youtube-86-226404.png' /> 
+**Vladilen Minin - best channel about JS/VueJS/ReactJS**</a>
+
+
 - <a href="https://www.youtube.com/watch?v=mJFbYHYxSDg&list=PLKIEFFgNQYpVmUAKUjT_BRYYOdMHwGt0v"><img align="center" width="20" height="20" src='https://avatars3.githubusercontent.com/u/1696866?s=200&v=4' /> 
 **Reach PHP with Sergey Zhuk**</a>
 
