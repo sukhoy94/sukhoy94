@@ -13,7 +13,7 @@ I'm backend developer. Also I like work on open source projects, write tuts and 
 ### Technologies 
 
 
-PHP, Laravel, Postgres, MySQL, VueJS, Symfony
+PHP, Laravel, Postgres, MySQL, VueJS, Symfony, Git, Bash
 
 
 ### What I'm currently learning 
