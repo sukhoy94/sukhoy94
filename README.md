@@ -47,9 +47,13 @@ ReactPHP, VueX
 - <a href="https://habr.com/ru/post/510614/"><img align="center" width="20" height="20" src='https://cdn1.iconfinder.com/data/icons/hexagon-social-media/512/habrahabr.png' /> 
 **Laravel Digest**</a>
 
-### Useful tools for everyday code: 
+### Useful tools for everyday coding: 
 
 
 - <a href="http://urlprettyprint.com/"><img align="center" width="20" height="20" src='https://e7.pngegg.com/pngimages/430/832/png-clipart-url-shortening-clean-url-uniform-resource-locator-wordpress-hyperlink-wordpress-search-engine-optimization-pretty-thumbnail.png' /> 
 **URL Pretty Print**</a>
+
+- <a href="https://www.diffchecker.com/"><img align="center" width="20" height="20" src='https://pl.rakko.tools/image/icon_3.png' /> 
+**Diffchecker**</a>
+
 
