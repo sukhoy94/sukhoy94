@@ -18,11 +18,11 @@ PHP, Laravel, Postgres, MySQL, VueJS, Symfony, Git, Bash
 
 ### What I'm currently learning 
 
-CQRS, phpUnit, VueJS
+CQRS, phpUnit, VueJS, Python
 
 ### What I'm going to learn in nearest future
 
-ReactPHP, VueX
+ReactPHP, VueX, Django
 
 
 ### Links to read and learn
