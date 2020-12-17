@@ -70,6 +70,11 @@ Agile
 **PHP sandbox IO**</a>
 
 
+### My YouTube Videous
+
+
+- <a href="https://www.youtube.com/watch?v=oi1qAScv_X8"><img align="center" width="20" height="20" src='https://cdn.iconscout.com/icon/free/png-256/youtube-86-226404.png' /> 
+**Window functions in MySQL**</a>
 
 
 
