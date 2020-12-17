@@ -47,6 +47,10 @@ Agile
 - <a href="https://habr.com/ru/post/510614/"><img align="center" width="20" height="20" src='https://cdn1.iconfinder.com/data/icons/hexagon-social-media/512/habrahabr.png' /> 
 **Laravel Digest**</a>
 
+- https://habr.com/ru/post/325478/
+
+- https://habr.com/ru/post/354046/
+
 ### Useful tools for everyday coding
 
 
