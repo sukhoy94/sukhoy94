@@ -18,7 +18,7 @@ PHP, Laravel, Postgres, MySQL, VueJS, Symfony, Git, Bash
 
 ### What I'm currently learning 
 
-Symfony
+Symfony, Wordpress (developing my own blog)
 
 ### What I'm going to learn in nearest future
 
