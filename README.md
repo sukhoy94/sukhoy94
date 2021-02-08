@@ -19,11 +19,9 @@ PHP, Laravel, Postgres, MySQL, VueJS, Symfony, Git, Bash
 
 ### What I'm currently learning 
 
-Symfony, Wordpress (developing my own blog), Design Patterns
+Django
 
 ### What I'm going to learn in nearest future
-
-Agile
 
 Docker
 
