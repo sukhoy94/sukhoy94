@@ -19,11 +19,7 @@ PHP, Laravel, Postgres, MySQL, VueJS, Symfony, Git, Bash
 
 ### What I'm currently learning 
 
-Django
-
-### What I'm going to learn in nearest future
-
-Docker
+Symfony, Docker
 
 
 ### Links to read and learn
