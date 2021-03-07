@@ -19,7 +19,13 @@ PHP, Laravel, Postgres, MySQL, VueJS, Symfony, Git, Bash
 
 ### What I'm currently learning 
 
-Symfony, Docker
+Laravel
+
+
+### What I'm currently doing
+
+expense-app, you can find it in my open public repositories list.
+Application for tracking daily expenses, couldn't find anything simple, free and sensitive, so decided just to code it and refresh my knowledge of Laravel :) 
 
 
 ### Links to read and learn
