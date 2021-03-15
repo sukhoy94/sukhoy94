@@ -43,10 +43,6 @@ Application for tracking daily expenses, couldn't find anything simple, free and
 - <a href="https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw"><img align="center" width="20" height="20" src='https://cdn.iconscout.com/icon/free/png-256/youtube-86-226404.png' /> 
 **Vladilen Minin - best channel about JS/VueJS/ReactJS**</a>
 
-
-- <a href="https://www.youtube.com/watch?v=mJFbYHYxSDg&list=PLKIEFFgNQYpVmUAKUjT_BRYYOdMHwGt0v"><img align="center" width="20" height="20" src='https://avatars3.githubusercontent.com/u/1696866?s=200&v=4' /> 
-**Reach PHP with Sergey Zhuk**</a>
-
 - <a href="https://habr.com/ru/post/510614/"><img align="center" width="20" height="20" src='https://cdn1.iconfinder.com/data/icons/hexagon-social-media/512/habrahabr.png' /> 
 **Laravel Digest**</a>
 
