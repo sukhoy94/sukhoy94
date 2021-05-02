@@ -50,31 +50,11 @@ Application for tracking daily expenses, couldn't find anything simple, free and
 
 - https://habr.com/ru/post/354046/
 
-### Useful tools for everyday coding
+<a href="https://github.com/sukhoy94/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhoy94&count_private=true&theme=vue" />
+</a>
+<a href="https://github.com/sukhoy94/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhoy94&layout=compact&theme=vue" />
+</a>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sukhoy94" alt="sukhoy94 profile view" /> </p>
 
-
-- <a href="http://urlprettyprint.com/"><img align="center" width="20" height="20" src='https://e7.pngegg.com/pngimages/430/832/png-clipart-url-shortening-clean-url-uniform-resource-locator-wordpress-hyperlink-wordpress-search-engine-optimization-pretty-thumbnail.png' /> 
-**URL Pretty Print**</a>
-
-- <a href="https://www.diffchecker.com/"><img align="center" width="20" height="20" src='https://pl.rakko.tools/image/icon_3.png' /> 
-**Diffchecker**</a>
-
-- <a href="https://sandbox.onlinephpfunctions.com/"><img align="center" width="20" height="20" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TK_sandbox_icon.svg/1200px-TK_sandbox_icon.svg.png' /> 
-**PHP sandbox**</a>
-
-- <a href="https://freeonlinetools24.com/json-decode"><img align="center" width="20" height="20" src='https://user-images.githubusercontent.com/11943860/42296280-559c07f0-7fca-11e8-9a50-4fccde0b86cb.png' /> 
-**JSON decode online**</a>
-
-
-### My YouTube Videos
-
-
-- <a href="https://www.youtube.com/watch?v=oi1qAScv_X8"><img align="center" width="20" height="20" src='https://cdn.iconscout.com/icon/free/png-256/youtube-86-226404.png' /> 
-**Window functions in MySQL [en]**</a>
-- <a href="https://www.youtube.com/watch?v=WBq9wQ0wOLA&list=PLJSOxMFx-pn-QUOIeuWavkBsnCu6XR5MM&ab_channel=AndriiSukhoi"><img align="center" width="20" height="20" src='https://cdn.iconscout.com/icon/free/png-256/youtube-86-226404.png' /> 
-**mysql from scratch [en]**</a>
-
-
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
-
-[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/abserari)
