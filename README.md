@@ -75,5 +75,5 @@ Application for tracking daily expenses, couldn't find anything simple, free and
 **mysql from scratch [en]**</a>
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
