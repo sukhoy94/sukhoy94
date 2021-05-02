@@ -11,15 +11,28 @@ https://stackoverflow.com/users/6478501/andrii-sukhoi - my stackoverflow profile
 
 I'm backend developer. Also I like work on open source projects, write tuts and learn new stuff in programming.
 
-### Technologies 
+<h4>Languages I am competent with</h4>
+<p align="left">
+<img src="https://img.shields.io/badge/php-474A8A.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/javascript-CFB430.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/html-DD4B25.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/css-254BDD.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25" width="60"/>
+</p>
 
 
-PHP, Laravel, Postgres, MySQL, VueJS, Symfony, Git, Bash
+<h4>Frameworks I am competent with</h4>
+<p align="left">
+<img src="https://img.shields.io/badge/Laravel-FF1B2D.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
+</p>
 
-
-### What I'm currently learning 
-
-Laravel
+<h4>Tools I have worked with</h4>
+<p align="left">
+<img src="https://img.shields.io/badge/git-EB4D28.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/mysql-006488.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/postgres-31648C.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/github-111111.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
+</p>
 
 
 ### What I'm currently doing
