@@ -6,9 +6,7 @@
 
 https://stackoverflow.com/users/6478501/andrii-sukhoi - my stackoverflow profile 
 
-### About me 
-
-
+### Who am I
 
 I'm backend developer. Also I like work on open source projects, write tuts and learn new stuff in programming.
 
