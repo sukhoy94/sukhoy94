@@ -10,7 +10,7 @@ https://stackoverflow.com/users/6478501/andrii-sukhoi - my stackoverflow profile
 
 I'm backend developer. Also I like work on open source projects, write tuts and learn new stuff in programming.
 
-<h4>Languages I am competent with</h4>
+<h4>Technologies I am competent with</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/php-474A8A.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-CFB430.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
