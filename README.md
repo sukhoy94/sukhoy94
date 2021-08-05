@@ -7,6 +7,7 @@
 ### Who am I
 
 I'm full-stack developer. Also I like work on open source projects, write tuts and learn new stuff in programming.
+
 Read my blog: https://su94.pl/
 
 <h4>Technologies I am competent with</h4>
