@@ -80,3 +80,5 @@ The Pragmatic Programmer - David Thomas
 Grokking Algorithms - Aditya Bhargava
 
 Domain-Driven Design - Evans Eric
+
+Unit Testing Principles, Practices, and Patterns - Vladimir Khorikov
