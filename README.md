@@ -8,10 +8,6 @@
 
 I'm full-stack developer. Also I like work on open source projects, write tuts and learn new stuff in programming.
 
-Read my blog: https://su94.pl/
-
-My 2022 goals: https://su94.pl/goodbye-2021/
-
 My stackoverflow profile: https://stackoverflow.com/users/6478501/andrii-sukhoi
 
 <h4>Technologies I am competent with</h4>
