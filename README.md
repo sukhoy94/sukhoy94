@@ -62,6 +62,8 @@ Application for tracking daily expenses, couldn't find anything simple, free and
 
 - https://habr.com/ru/post/354046/
 
+- https://www.devtective.pl/
+
 <a href="https://github.com/sukhoy94/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhoy94&count_private=true&theme=vue" />
 </a>
