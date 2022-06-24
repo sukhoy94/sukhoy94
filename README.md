@@ -6,7 +6,7 @@
 
 ### Who am I
 
-I'm full-stack developer. Also I like work on open source projects, write tuts and learn new stuff in programming.
+I'm backend developer. Also I like work on open source projects, write tuts and learn new stuff in programming.
 
 My stackoverflow profile: https://stackoverflow.com/users/6478501/andrii-sukhoi
 
