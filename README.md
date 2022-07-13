@@ -31,6 +31,7 @@ My stackoverflow profile: https://stackoverflow.com/users/6478501/andrii-sukhoi
 <img src="https://img.shields.io/badge/mysql-006488.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/postgres-31648C.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/github-111111.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch)
 </p>
 
 
