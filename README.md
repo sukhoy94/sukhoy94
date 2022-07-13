@@ -22,7 +22,10 @@ My stackoverflow profile: https://stackoverflow.com/users/6478501/andrii-sukhoi
 <h4>Frameworks I am competent with</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/Laravel-FF1B2D.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/symfony-%23000000.svg?logo=symfony&logoColor=white" height="25"/>  
 </p>
+
+
 
 <h4>Tools I have worked with</h4>
 <p align="left">
