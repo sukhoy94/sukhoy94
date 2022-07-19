@@ -38,7 +38,7 @@ My stackoverflow profile: https://stackoverflow.com/users/6478501/andrii-sukhoi
 
 ### What I'm currently doing
 
-expense-app, you can find it in my open public repositories list.
+Budget tracker application on symfony, you can find it in my open public repositories list.
 Application for tracking daily expenses, couldn't find anything simple, free and sensitive, so decided just to code it and refresh my knowledge of Laravel :) 
 
 
