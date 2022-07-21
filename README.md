@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#php #symfony #js #postgresql #laravel #restapi #postman #solid
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrii-sukhoi-0a3773125/)](https://www.linkedin.com/in/andrii-sukhoi-0a3773125/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrii.sukhoi@gmail.com)](mailto:andrii.sukhoi@gmail.com)
 
