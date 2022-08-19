@@ -75,6 +75,11 @@ Application for tracking daily expenses, couldn't find anything simple, free and
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sukhoy94" alt="sukhoy94 profile view" /> </p>
 
 
+### blogs
+
+https://woutercarabain.com/
+
+
 ### Books
 
 Clean Code - Robert C. Martin
