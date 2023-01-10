@@ -1,4 +1,3 @@
-MERRY CHRISTMAS AND A HAPPY NEW YEAR!!!
 ### Hi there 👋
 
 
