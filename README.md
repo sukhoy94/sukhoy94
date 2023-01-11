@@ -22,14 +22,6 @@ My stackoverflow profile: https://stackoverflow.com/users/6478501/andrii-sukhoi
 </p>
 
 
-<h4>Frameworks I am competent with</h4>
-<p align="left">
-<img src="https://img.shields.io/badge/Laravel-FF1B2D.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/symfony-%23000000.svg?logo=symfony&logoColor=white" height="25"/>  
-</p>
-
-
-
 <h4>Tools I have worked with</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/git-EB4D28.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
@@ -38,12 +30,6 @@ My stackoverflow profile: https://stackoverflow.com/users/6478501/andrii-sukhoi
 <img src="https://img.shields.io/badge/postgres-31648C.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/github-111111.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch" height="25"/>
-
-
-### What I'm currently doing
-
-Budget tracker application on symfony, you can find it in my open public repositories list.
-Application for tracking daily expenses, couldn't find anything simple, free and sensitive, so decided just to code it and refresh my knowledge of Laravel :) 
 
 
 ### Links to read and learn
