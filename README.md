@@ -13,6 +13,7 @@
 I'm php developer. Also I like work on open source projects, write tuts and learn new stuff in programming.
 
 My stackoverflow profile: https://stackoverflow.com/users/6478501/andrii-sukhoi
+
 My medium profile: https://medium.com/@andrii.sukhoi
 
 <h4>Technologies I am competent with</h4>
