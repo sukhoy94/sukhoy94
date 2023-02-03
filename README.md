@@ -57,6 +57,9 @@ My medium profile: https://medium.com/@andrii.sukhoi
 - https://www.devtective.pl/
   
 - https://www.youtube.com/@aschmelyun/featured
+  
+- data analysis blog https://kajodata.com/
+  
 
 <a href="https://github.com/sukhoy94/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhoy94&count_private=true&theme=vue" />
