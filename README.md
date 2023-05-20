@@ -1,6 +1,8 @@
 ### Hi there 👋
-
-
+[<img align="left" alt="yegor256 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:andrii.sukhoi@gmail.com)
+[<img align="left" alt="yegor256 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/andrii-sukhoi-0a3773125)
+[<img align="left" alt="yegor256 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/phpde.v/)
+<br/>
 
 #php #symfony #js #postgresql #laravel #restapi #postman #solid #agile #scrum #docker #twig
 
