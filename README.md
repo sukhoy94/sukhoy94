@@ -39,6 +39,8 @@ My IG profile: https://www.instagram.com/phpde.v/
 
 
 ### Links to read and learn
+  
+- https://twirl.github.io/The-API-Book/index.ru.html    
 
 - <a href="https://github.com/alexeymezenin/laravel-best-practices"><img align="center" width="20" height="20" src='https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15754208491553750212-512.png' /> 
 **Laravel best practices**</a>
