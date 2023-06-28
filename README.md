@@ -65,6 +65,10 @@ My IG profile: https://www.instagram.com/phpde.v/
 - https://www.youtube.com/@aschmelyun/featured
   
 - data analysis blog https://kajodata.com/
+- https://ocramius.github.io/blog/when-to-declare-classes-final/
+- https://matthiasnoback.nl/2018/09/final-classes-by-default-why/
+- https://blog.devgenius.io/stop-using-extends-in-php-37c9da1cce83
+
   
 
 <a href="https://github.com/sukhoy94/github-readme-stats">
