@@ -68,8 +68,7 @@ My IG profile: https://www.instagram.com/phpde.v/
 - https://ocramius.github.io/blog/when-to-declare-classes-final/
 - https://matthiasnoback.nl/2018/09/final-classes-by-default-why/
 - https://blog.devgenius.io/stop-using-extends-in-php-37c9da1cce83
-
-  
+- https://aaronfrancis.com/  
 
 <a href="https://github.com/sukhoy94/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhoy94&count_private=true&theme=vue" />
