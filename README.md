@@ -18,7 +18,7 @@ My stackoverflow profile: https://stackoverflow.com/users/6478501/andrii-sukhoi
 
 My medium profile: https://medium.com/@andrii.sukhoi
 
-My IG profile: [https://www.instagram.com/phpde.v/](https://www.instagram.com/andrewwwlife94/)
+My IG profile: [https://www.instagram.com/andrewwwlife94/](https://www.instagram.com/andrewwwlife94/)
 
 <h4>Technologies I am competent with</h4>
 <p align="left">
