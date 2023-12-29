@@ -50,9 +50,6 @@ My IG profile: [https://www.instagram.com/andrewwwlife94/](https://www.instagram
 **Software Project Review Checklist**</a>
 
 
-- <a href="https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw"><img align="center" width="20" height="20" src='https://cdn.iconscout.com/icon/free/png-256/youtube-86-226404.png' /> 
-**Vladilen Minin - best channel about JS/VueJS/ReactJS**</a>
-
 - <a href="https://habr.com/ru/post/510614/"><img align="center" width="20" height="20" src='https://cdn1.iconfinder.com/data/icons/hexagon-social-media/512/habrahabr.png' /> 
 **Laravel Digest**</a>
 
