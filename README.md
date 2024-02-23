@@ -40,7 +40,7 @@ My IG profile: [https://www.instagram.com/andrewwwlife94/](https://www.instagram
 
 
 ### Links to read and learn
-  
+- https://vk.com/@itmozg-programming-books - huge collection of programming books
 - https://twirl.github.io/The-API-Book/index.ru.html    
 
 - <a href="https://github.com/alexeymezenin/laravel-best-practices"><img align="center" width="20" height="20" src='https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15754208491553750212-512.png' /> 
