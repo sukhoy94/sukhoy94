@@ -24,10 +24,8 @@ My IG profile: [https://www.instagram.com/andrewwwlife94/](https://www.instagram
 <h4>Technologies I am competent with</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/php-474A8A.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/javascript-CFB430.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" height="25"/>
 </p>
-
 
 <h4>Tools I have worked with</h4>
 <p align="left">
