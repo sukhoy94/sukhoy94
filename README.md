@@ -7,7 +7,7 @@
 ### Who am I
 
 I'm php developer. Also I like work on open source projects, write tuts and learn new stuff in programming.
-My YT channle: [https://youtube.com/@andrewwwlife/](https://youtube.com/@andrewwwlife/)
+Here you can find my youtube channel: [https://youtube.com/@andrewwwlife/](https://youtube.com/@andrewwwlife/)
 
 My stackoverflow profile: https://stackoverflow.com/users/6478501/andrii-sukhoi
 
