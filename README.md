@@ -13,8 +13,6 @@ My stackoverflow profile: https://stackoverflow.com/users/6478501/andrii-sukhoi
 
 My medium profile: https://medium.com/@andrii.sukhoi
 
-My IG profile: [https://www.instagram.com/andrewwwlife94/](https://www.instagram.com/andrewwwlife94/)
-
 <h4>Technologies I am competent with</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/php-474A8A.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
