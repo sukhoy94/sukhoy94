@@ -1,4 +1,4 @@
-# Hi! I'm Andrii
+# Hi! I'm Andrew
 
 - I'm a php developer from Lublin, Poland 🇵🇱
 - I work at a nocowaniepl e-commerce
