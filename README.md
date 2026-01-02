@@ -6,7 +6,7 @@
 - 🚗 Coding from my “garage” (laptop, coffee, sometimes bugs)
 - 🔥 Side projects, refactoring, learning and breaking things
 - 🎥 I talk about programming and backend life on YouTube:  
-  [EN channel](https://www.youtube.com/@andriisukhoi) |  
+  [My personal youtube](https://www.youtube.com/@andriisukhoi) |  
   [Piwnica Programisty (PL)](https://www.youtube.com/@piwnica-programisty)
 - 📫 email: [andrii.sukhoi@gmail.com](mailto:andrii.sukhoi@gmail.com)  
   instagram: [@andrewwwlife94](https://www.instagram.com/andrewwwlife94/)
