@@ -1,12 +1,32 @@
-# Hi, I'm Andrew 👋
+# Hi, I'm Andrew
 
-- 🇵🇱 Programmer from Lublin, Poland
-- 🧑‍💻 I like writing code just for the fun of it
-- 🔧 Mostly backend stuff – PHP, Laravel, databases, servers
-- 🚗 Coding from my “garage” (laptop, coffee, sometimes bugs)
-- 🔥 Side projects, refactoring, learning and breaking things
-- 🎥 I talk about programming and backend life on YouTube:  
-  [My personal youtube](https://www.youtube.com/@andriisukhoi) |  
-  [Piwnica Programisty (PL)](https://www.youtube.com/@piwnica-programisty)
-- 📫 email: [andrii.sukhoi@gmail.com](mailto:andrii.sukhoi@gmail.com)  
-  instagram: [@andrewwwlife94](https://www.instagram.com/andrewwwlife94/)
+I am a programmer from Lublin, Poland.
+
+I write software both for personal use and for commercial projects.  
+I enjoy creating small helper scripts and tools that I use in my daily work.
+
+I started programming when I was 17 years old.  
+In 2014, I graduated from the Lublin University of Technology with a degree in Computer Science and obtained the title of Engineer.
+
+My main areas of interest are backend development, databases and server-side systems.  
+I focus on practical solutions, automation and improving everyday workflows.
+
+## Technologies
+
+- Backend development
+- PHP, Laravel
+- SQL databases
+- Server-side scripting
+- Automation and tooling
+
+## Online
+
+I also talk about programming and backend-related topics on YouTube:
+
+- Personal channel: https://www.youtube.com/@andriisukhoi  
+- Piwnica Programisty (PL): https://www.youtube.com/@piwnica-programisty
+
+## Contact
+
+- Email: andrii.sukhoi@gmail.com  
+- Instagram: https://www.instagram.com/andrewwwlife94/
