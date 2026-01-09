@@ -14,7 +14,8 @@ I focus on practical solutions, automation and improving everyday workflows.
 ## Technologies
 
 - Backend development
-- PHP, Laravel
+- PHP, Laravel, Symfony
+- Python
 - SQL databases
 - Server-side scripting
 - Automation and tooling
