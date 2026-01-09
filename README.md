@@ -1,4 +1,4 @@
-# Hi, I'm Andrew
+# Hi, I'm Andrii Sukhoi
 
 I am a programmer from Lublin, Poland.
 
