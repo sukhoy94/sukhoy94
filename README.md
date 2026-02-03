@@ -19,6 +19,7 @@ I focus on practical solutions, automation and improving everyday workflows.
 - SQL databases
 - Server-side scripting
 - Automation and tooling
+- AI-Drive Development (Claude, Claude Skills, Claude Sub-Agents)
 
 ## Online
 
