@@ -26,7 +26,6 @@ I focus on practical solutions, automation and improving everyday workflows.
 I also talk about programming and backend-related topics on YouTube:
 
 - Personal channel: https://www.youtube.com/@andriisukhoi  
-- Piwnica Programisty (PL): https://www.youtube.com/@piwnica-programisty
 
 ## Contact
 
