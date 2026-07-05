@@ -39,16 +39,6 @@ automating the workflows that keep products running. Focused on practical, maint
 
 ---
 
-### GitHub activity
-
-<a href="https://github.com/sukhoy94">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sukhoy94&show_icons=true&count_private=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=1f2328&bg_color=00000000" />
-</a>
-<a href="https://github.com/sukhoy94">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhoy94&layout=compact&hide_border=true&title_color=0969da&text_color=1f2328&bg_color=00000000" />
-</a>
-
----
 
 ### Connect
 
