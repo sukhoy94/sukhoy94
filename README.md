@@ -1,33 +1,58 @@
-# Hi, I'm Andrii Sukhoi
+<!--
+  ┌─────────────────────────────────────────────────────────────┐
+  │  sukhoy94 · minimal engineer profile README                 │
+  │  Wklej całość do repo:  sukhoy94/sukhoy94                   │
+  └─────────────────────────────────────────────────────────────┘
+-->
 
-I am a programmer from Lublin, Poland.
+# Andrii Sukhoi
 
-I write software both for personal use and for commercial projects.  
-I enjoy creating small helper scripts and tools that I use in my daily work.
+**Backend Engineer** · [@nocowaniepl](https://github.com/nocowaniepl)
 
-I started programming when I was 17 years old (now I'm 31).  
-In 2014, I graduated from the Lublin University of Technology with a degree in Computer Science and obtained the title of Engineer.
+I build backend and server-side systems — designing reliable APIs, tuning databases, and
+automating the workflows that keep products running. Focused on practical, maintainable solutions.
 
-My main areas of interest are backend development, databases and server-side systems.  
-I focus on practical solutions, automation and improving everyday workflows.
+📍 Lublin, Poland &nbsp;·&nbsp; 🎓 Computer Science, Lublin University of Technology &nbsp;·&nbsp; 💬 EN · PL · UA
 
-## Technologies
+---
 
-- Backend development
-- PHP, Laravel, Symfony
-- Python
-- SQL databases
-- Server-side scripting
-- Automation and tooling
-- AI-Drive Development (Claude, Claude Skills, Claude Sub-Agents)
+### Focus areas
 
-## Online
+- **Backend development** — PHP · Laravel · Symfony
+- **Automation & tooling** — Python · shell scripting
+- **Data & storage** — MySQL · PostgreSQL · SQL
+- **Infrastructure** — Linux · Docker · networks
 
-I also talk about programming and backend-related topics on YouTube:
+---
 
-- Personal channel: https://www.youtube.com/@andriisukhoi  
+### Tech stack
 
-## Contact
+![PHP](https://img.shields.io/badge/PHP-1f2328?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-1f2328?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-1f2328?style=flat-square&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1f2328?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1f2328?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1f2328?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=white)
 
-- Email: andrii.sukhoi@gmail.com  
-- Instagram: https://www.instagram.com/andrewwwlife94/
+---
+
+### GitHub activity
+
+<a href="https://github.com/sukhoy94">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sukhoy94&show_icons=true&count_private=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=1f2328&bg_color=00000000" />
+</a>
+<a href="https://github.com/sukhoy94">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhoy94&layout=compact&hide_border=true&title_color=0969da&text_color=1f2328&bg_color=00000000" />
+</a>
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/andrii-sukhoi-0a3773125) ·
+[YouTube](https://www.youtube.com/@andriisukhoi) ·
+[Medium](https://medium.com/@andrii.sukhoi) ·
+[andrii.sukhoi@gmail.com](mailto:andrii.sukhoi@gmail.com)
